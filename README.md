@@ -1,2 +1,1 @@
-# Java
-Project's Done in Java
+The following Folder contains an array of Java programs
